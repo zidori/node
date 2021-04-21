@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+#btn{
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  background: powderblue;
+}
+
+.btn{
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  background: salmon;
+}
